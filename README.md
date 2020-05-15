@@ -2,10 +2,15 @@ Awesome Resources
 ===================
 
 - My Awesome collections
+
+    - [AWS Misc](#aws-misc)
     - [AWS CloudWatch](#aws-cloudwatch)
     - [AWS Lambda](#aws-lambda)
     - [Monitoring Tools](#monitoring-tools)
 
+## AWS Misc
+
+* [SSM Parameter Store](http://github.com/christippett/ssm-parameter-store) - Simple python wrappter of AWS SSM Parameter Store.
 
 ## AWS Cloudwatch
 
